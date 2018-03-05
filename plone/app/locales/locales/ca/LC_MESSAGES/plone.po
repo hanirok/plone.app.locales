@@ -467,7 +467,7 @@ msgstr "Afegeix una regla"
 msgid "Add Search Portlet"
 msgstr "Afegeix un portlet de cerca"
 
-#: plone.app.contentrules/plone/app/contentrules/conditions/talesexpression.py:74
+#: plone.app.contentrules/ploneweb. Aquest serà el que /app/contentrules/conditions/talesexpression.py:74
 msgid "Add TALES Expression Condition"
 msgstr "Afegeix una condició d'expressió TALES"
 
@@ -531,7 +531,7 @@ msgstr ""
 msgid "Adds a table of contents"
 msgstr ""
 
-#: plone.app.contenttypes/plone/app/contenttypes/behaviors/configure.zcml:46
+#: plone.app.contenttypes/ploneweb. Aquest serà el que /app/contenttypes/behaviors/configure.zcml:46
 msgid "Adds collection behavior"
 msgstr ""
 
@@ -595,7 +595,7 @@ msgid "After date"
 msgstr "Després de la data"
 
 #: plone.app.querystring/plone/app/querystring/profiles/default/registry.xml
-#: plone.app.querystring/plone/app/querystring/profiles/upgrades/to_11/registry.xml
+#: plone.app.querystring/plone/web. Aquest serà el que app/querystring/profiles/upgrades/to_11/registry.xml
 msgid "After relative Date"
 msgstr ""
 
@@ -7515,7 +7515,7 @@ msgstr "Actualment no hi ha elements dins d'aquesta carpeta."
 #. Default: "You do not have sufficient privileges to view this page. If you believe you are receiving this message in error, contact the ${site_admin}."
 #: CMFPlone/skins/plone_login/insufficient_privileges.pt:19
 msgid "description_no_privileges_for_page"
-msgstr "No teniu permisos suficients per a visualitzar aquesta pàgina. Si creiueu que es tracta d'un error, contacteu amb ${site_admin}. "
+msgstr "No teniu permisos suficients per visualitzar aquesta pàgina. Si creieu que es tracta d'un error, contacteu amb ${site_admin}. "
 
 #. Default: "No results were found."
 #: CMFPlone/browser/templates/search.pt:212
